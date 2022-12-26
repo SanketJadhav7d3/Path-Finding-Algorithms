@@ -1,0 +1,29 @@
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #d4e3fe;
+    font-family: 'Roboto Mono', monospace;
+}
+
+button {
+    position: absolute;
+    top: 60%;
+    right: 20%;
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: #d4e3fe;
+    box-shadow:  20px 20px 60px #b4c1d8,
+                 -20px -20px 60px #f4ffff;
+}
+
+.project-title {
+    position: absolute;
+    top: 45%;
+    right: 12%;
+    font-size: 40px;
+    text-align: center;
+}
