@@ -40,7 +40,7 @@ function Node(i, j) {
 
         if (i > 0 && j > 0) this.neighbors.push(grid[i-1][j-1]);
 
-        if (i + 1 < rows && j > 0) this.neighbors.push(grid[i+1][j]);
+        if (i + 1 < rows && j > 0) this.neighbors.push(grid[i+1][j-1]);
 
         if (i > 0 && j + 1 < columns) this.neighbors.push(grid[i-1][j+1]);
     }
