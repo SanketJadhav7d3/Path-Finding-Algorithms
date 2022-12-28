@@ -3,9 +3,9 @@
 
 Tried implementing path finding algorithms in p5.js
 
-![path-finding](https://user-images.githubusercontent.com/93857526/209831550-67762631-1fca-4f87-9f9b-2afe2b98e921.gif)
-
 You can move starting and ending nodes by simply dragging them.
+
+![path-finding](https://user-images.githubusercontent.com/93857526/209837786-83566af5-cc66-4c52-ba0f-2ff681023b13.gif)
 
 You can add block nodes by dragging on empty space.
 
