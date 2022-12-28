@@ -1,6 +1,6 @@
 
-var canvasHeight = 1000;
-var canvasWidth = 1000;
+var canvasHeight = 800;
+var canvasWidth = 800;
 
 var tile = 20;
 
@@ -10,7 +10,7 @@ var columns = canvasWidth / tile;
 var graph = new Array(rows);
 
 var startNode = [0, 0];
-var targetNode = [49, 49];
+var targetNode = [rows-1, columns-1];
 
 // mouse pointer to know if mouse is pressed or not
 var moveNode = false;

@@ -1,6 +1,6 @@
 
-var canvasHeight = 1000;
-var canvasWidth = 1000;
+var canvasHeight = 800;
+var canvasWidth = 800;
 
 var tile = 20;
 
