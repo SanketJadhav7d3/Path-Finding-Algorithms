@@ -9,7 +9,7 @@ You can move starting and ending nodes by simply dragging them.
 
 You can add block nodes by dragging on empty space.
 
-![path-finding](https://user-images.githubusercontent.com/93857526/209839463-7f8a0c56-700e-49b9-81be-eacdc6fc3d32.gif)
+![blocks](https://user-images.githubusercontent.com/93857526/209906185-a684513e-2cdb-4adc-8d16-1d3bb784e866.gif)
 
 ## A* Algorithm
 
