@@ -17,9 +17,9 @@ var moveNode = false;
 var whichNode = null;
 
 // colors for start node
-var colorStartNode = "#00FF00";
-var colorTargetNode = "#1B02A3";
-var colorObstacleNode = "#2B4BFF";
+var colorStartNode = "#6960EC";
+var colorTargetNode = "#8A2BE2";
+var colorObstacleNode = "#F6EEF0";
 var visualizationStarted = false;
 
 function initGraph() {
@@ -190,7 +190,7 @@ function bfs() {
 
     for (var i = 0; i < path.length; ++i) {
         var [x, y] = path[i];
-        drawNode([x, y], "#00FF00");
+        drawNode([x, y], "purple");
     }
 }
 
@@ -201,7 +201,7 @@ function drawGraph() {
             if (graph[i][j] == 1) {
                 drawNode([i, j], colorObstacleNode);
             } else
-                drawNode([i, j], "#B8B9BB");
+                drawNode([i, j], "#95B9C7");
         }
     }
 
