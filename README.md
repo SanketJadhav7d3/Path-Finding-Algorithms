@@ -15,7 +15,7 @@ You can add block nodes by dragging on empty space.
 
 ![astar](https://user-images.githubusercontent.com/93857526/209842716-30c72b3f-5d61-4066-9f3b-4218f2d4d128.gif)
 
-You can try at https://sanketjadhav7d3.github.io/Robotics-Algorithms/Astar-Algorithm/index.html
+[go](You can try at https://sanketjadhav7d3.github.io/Robotics-Algorithms/Astar-Algorithm/index.html){:target="_blank"}
 
 ## Breadth First Search
 
