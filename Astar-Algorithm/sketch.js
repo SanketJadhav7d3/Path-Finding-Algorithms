@@ -187,6 +187,7 @@ function draw() {
         }
 
         removeFromArray(openSet, current);
+        // closedSet contains all the nodes visisted
         closedSet.push(current);
 
         var neighbors = current.neighbors;
