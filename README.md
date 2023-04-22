@@ -1,5 +1,5 @@
 
-# Robotics-Algorithms
+# Path Finding Algorithms
 
 Tried implementing path finding algorithms in p5.js
 
